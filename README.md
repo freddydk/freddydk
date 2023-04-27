@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on AL-Go for GitHub
-- 🌱 I’m currently learning about AI, PowerPlatform, PowerApps, GitHub, Python
-- 👯 I’m looking to collaborate on AL-Go for GitHub
+- 🌱 I’m currently learning about AI, PowerPlatform, PowerApps, GitHub, Python and other cool trends in IT
+- 👯 I’m looking to collaborate on things that will enable people to achieve more...
 - 🤔 I’m looking for help with nothing really, but appreciate help on everything:-)
 - 💬 Ask me about anything
 - 📫 How to reach me: @freddydk on Twitter 
