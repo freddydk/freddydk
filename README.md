@@ -17,8 +17,19 @@
 
 <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/94da5865-6874-4a61-b5fd-9f7f87ccb165" />
 
-### My Github Contributions
-| **SUMARY**                                                                                                                                              | **LANGUAGES**                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![freddydk's github stats](https://github-readme-stats.vercel.app/api?username=freddydk&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freddydk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 🔀 Recent Pull Requests
+
+<!--START_SECTION:prs-->
+<!--END_SECTION:prs-->
+
+### 📦 Recently Active Repositories
+
+<!--START_SECTION:repos-->
+<!--END_SECTION:repos-->
+
+### 🚀 What I've been contributing to lately
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
