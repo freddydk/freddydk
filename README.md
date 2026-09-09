@@ -1,15 +1,16 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on AL-Go for GitHub
-- 🌱 I’m currently learning about AI, PowerPlatform, PowerApps, GitHub, Python and other cool trends in IT
+- 🔭 I’m currently working on Fkh (Freddy's Kubernetes Helper), BcNuGetHelper, ALGoCtl, AL-Go for GitHub and other customer related projects
 - 👯 I’m looking to collaborate on things that will enable people to achieve more...
+- 💖 I’m looking for [sponsors](https://github.com/sponsors/Freddy-DK) who want to help me build tools that enable people to achieve more
 - 🤔 I’m looking for help with nothing really, but appreciate help on everything:-)
 - 💬 Ask me about anything
-- 📫 How to reach me: @freddydk on Twitter 
+- 📫 How to reach me: @freddykristiansen on LinkedIn
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Shipped my first commercial piece of software in 1983 - a 3D Pacman game for Sinclair ZX Spectrum
+- 👨‍👦‍👦 Fun fact: I have 3 sons, all working in the IT industry - 2 of them in the Business Central world
 
-![image](https://user-images.githubusercontent.com/10775043/234829726-d1611366-94c1-41f4-a15b-17ee43a56dc5.png)
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/94da5865-6874-4a61-b5fd-9f7f87ccb165" />
 
 ### My Github Contributions
 | **SUMARY**                                                                                                                                              | **LANGUAGES**                                                                                                                                         |
