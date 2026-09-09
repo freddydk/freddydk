@@ -1,0 +1,294 @@
+name: Update GitHub Profile
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Every day at 05:17 UTC
+    - cron: "17 5 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Update README
+        uses: actions/github-script@v7
+        env:
+          README_FILE: README.md
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require("fs");
+
+            const username = context.repo.owner;
+            const readmeFile = process.env.README_FILE;
+
+            const MAX_PRS = 10;
+            const MAX_REPOS = 10;
+            const MAX_ACTIVITY = 10;
+
+            function escapeMarkdown(value) {
+              return String(value ?? "")
+                .replace(/\r?\n/g, " ")
+                .replace(/\\/g, "\\\\")
+                .replace(/\[/g, "\\[")
+                .replace(/\]/g, "\\]");
+            }
+
+            function replaceSection(markdown, section, content) {
+              const start = `<!--START_SECTION:${section}-->`;
+              const end = `<!--END_SECTION:${section}-->`;
+
+              if (!markdown.includes(start) || !markdown.includes(end)) {
+                core.warning(
+                  `README does not contain placeholders for '${section}'`
+                );
+                return markdown;
+              }
+
+              const pattern = new RegExp(
+                `${start}[\\s\\S]*?${end}`,
+                "m"
+              );
+
+              return markdown.replace(
+                pattern,
+                `${start}\n${content.trim()}\n${end}`
+              );
+            }
+
+            function repoNameFromUrl(url) {
+              // Example:
+              // https://api.github.com/repos/microsoft/AL-Go
+              const match = url?.match(/\/repos\/([^/]+\/[^/]+)$/);
+              return match ? match[1] : undefined;
+            }
+
+            // ------------------------------------------------------------
+            // Pull Requests
+            // ------------------------------------------------------------
+
+            const prSearch = await github.rest.search.issuesAndPullRequests({
+              q: `author:${username} is:pr`,
+              sort: "updated",
+              order: "desc",
+              per_page: 20
+            });
+
+            const prs = prSearch.data.items
+              .slice(0, MAX_PRS)
+              .map(pr => {
+                const repo = repoNameFromUrl(pr.repository_url) ?? "Unknown repository";
+
+                let state;
+                if (pr.pull_request?.merged_at) {
+                  state = "🟣 merged";
+                } else if (pr.state === "open") {
+                  state = "🟢 open";
+                } else {
+                  state = "🔴 closed";
+                }
+
+                return `- ${state} [${escapeMarkdown(pr.title)}](${pr.html_url}) — \`${repo}\``;
+              });
+
+            const prSection =
+              prs.length > 0
+                ? prs.join("\n")
+                : "_No recent pull requests._";
+
+            // ------------------------------------------------------------
+            // Public activity
+            // ------------------------------------------------------------
+
+            let events = [];
+
+            try {
+              const response = await github.request(
+                "GET /users/{username}/events/public",
+                {
+                  username,
+                  per_page: 100,
+                  headers: {
+                    "X-GitHub-Api-Version": "2022-11-28"
+                  }
+                }
+              );
+
+              events = response.data;
+            } catch (error) {
+              core.warning(`Unable to retrieve public events: ${error.message}`);
+            }
+
+            // ------------------------------------------------------------
+            // Recently active repositories
+            //
+            // Build the list from both PRs and recent public activity.
+            // This includes repositories owned by other organizations.
+            // ------------------------------------------------------------
+
+            const recentRepos = new Map();
+
+            for (const event of events) {
+              if (!event.repo?.name) continue;
+
+              const current = recentRepos.get(event.repo.name);
+
+              if (
+                !current ||
+                new Date(event.created_at) > new Date(current.date)
+              ) {
+                recentRepos.set(event.repo.name, {
+                  name: event.repo.name,
+                  date: event.created_at
+                });
+              }
+            }
+
+            for (const pr of prSearch.data.items) {
+              const repo = repoNameFromUrl(pr.repository_url);
+              if (!repo) continue;
+
+              const current = recentRepos.get(repo);
+
+              if (
+                !current ||
+                new Date(pr.updated_at) > new Date(current.date)
+              ) {
+                recentRepos.set(repo, {
+                  name: repo,
+                  date: pr.updated_at
+                });
+              }
+            }
+
+            const repos = [...recentRepos.values()]
+              .sort((a, b) => new Date(b.date) - new Date(a.date))
+              .slice(0, MAX_REPOS)
+              .map(repo =>
+                `- [${repo.name}](https://github.com/${repo.name})`
+              );
+
+            const repoSection =
+              repos.length > 0
+                ? repos.join("\n")
+                : "_No recent repository activity._";
+
+            // ------------------------------------------------------------
+            // Activity
+            // ------------------------------------------------------------
+
+            function describeEvent(event) {
+              const repo = event.repo?.name;
+              if (!repo) return undefined;
+
+              const repoUrl = `https://github.com/${repo}`;
+
+              switch (event.type) {
+                case "PushEvent": {
+                  const count = event.payload?.commits?.length ?? 0;
+                  const branch = event.payload?.ref
+                    ?.replace("refs/heads/", "");
+
+                  return `- ⬆️ Pushed ${count || ""} commit${count === 1 ? "" : "s"}${branch ? ` to \`${branch}\`` : ""} in [${repo}](${repoUrl})`;
+                }
+
+                case "PullRequestEvent": {
+                  const pr = event.payload?.pull_request;
+                  if (!pr) return undefined;
+
+                  const action = event.payload.action;
+
+                  return `- 🔀 ${escapeMarkdown(action)} PR [#${pr.number} ${escapeMarkdown(pr.title)}](${pr.html_url}) in [${repo}](${repoUrl})`;
+                }
+
+                case "IssuesEvent": {
+                  const issue = event.payload?.issue;
+                  if (!issue) return undefined;
+
+                  return `- 🐛 ${escapeMarkdown(event.payload.action)} issue [#${issue.number} ${escapeMarkdown(issue.title)}](${issue.html_url}) in [${repo}](${repoUrl})`;
+                }
+
+                case "IssueCommentEvent": {
+                  const issue = event.payload?.issue;
+                  if (!issue) return undefined;
+
+                  return `- 💬 Commented on [#${issue.number} ${escapeMarkdown(issue.title)}](${issue.html_url}) in [${repo}](${repoUrl})`;
+                }
+
+                case "CreateEvent": {
+                  const refType = event.payload?.ref_type;
+
+                  if (refType === "repository") {
+                    return `- ✨ Created repository [${repo}](${repoUrl})`;
+                  }
+
+                  if (refType === "branch") {
+                    return `- 🌿 Created branch \`${escapeMarkdown(event.payload.ref)}\` in [${repo}](${repoUrl})`;
+                  }
+
+                  if (refType === "tag") {
+                    return `- 🏷️ Created tag \`${escapeMarkdown(event.payload.ref)}\` in [${repo}](${repoUrl})`;
+                  }
+
+                  return undefined;
+                }
+
+                case "ReleaseEvent": {
+                  const release = event.payload?.release;
+
+                  return `- 🚀 Published release [${escapeMarkdown(release?.tag_name ?? "")}](${release?.html_url ?? repoUrl}) in [${repo}](${repoUrl})`;
+                }
+
+                case "ForkEvent":
+                  return `- 🍴 Forked [${repo}](${repoUrl})`;
+
+                case "WatchEvent":
+                  return `- ⭐ Starred [${repo}](${repoUrl})`;
+
+                default:
+                  return undefined;
+              }
+            }
+
+            const activity = events
+              .map(describeEvent)
+              .filter(Boolean)
+              .slice(0, MAX_ACTIVITY);
+
+            const activitySection =
+              activity.length > 0
+                ? activity.join("\n")
+                : "_No recent public activity._";
+
+            // ------------------------------------------------------------
+            // Update README
+            // ------------------------------------------------------------
+
+            let readme = fs.readFileSync(readmeFile, "utf8");
+
+            readme = replaceSection(readme, "prs", prSection);
+            readme = replaceSection(readme, "repos", repoSection);
+            readme = replaceSection(readme, "activity", activitySection);
+
+            fs.writeFileSync(readmeFile, readme);
+
+      - name: Commit README changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "README is already up to date"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+          git commit -m "Update profile activity"
+          git push
