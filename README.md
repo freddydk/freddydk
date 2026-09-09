@@ -20,16 +20,46 @@
 ### 🔀 Recent Pull Requests
 
 <!--START_SECTION:prs-->
+- 🟢 open [Support for SQL 2025](https://github.com/microsoft/nav-docker/pull/621) — `microsoft/nav-docker`
+- 🔴 closed [Add description to app.json for TestApp2](https://github.com/Freddy-DK/FkhTest/pull/2) — `Freddy-DK/FkhTest`
+- 🔴 closed [Install dotnet 8](https://github.com/microsoft/nav-arm-templates/pull/233) — `microsoft/nav-arm-templates`
+- 🔴 closed [Update HelloWorld.al](https://github.com/BusinessCentralApps/include/pull/4) — `BusinessCentralApps/include`
+- 🔴 closed [Update HelloWorld.al](https://github.com/BusinessCentralApps/include/pull/5) — `BusinessCentralApps/include`
+- 🔴 closed [Update HelloWorld.al](https://github.com/BusinessCentralApps/include/pull/6) — `BusinessCentralApps/include`
+- 🔴 closed [Update HelloWorld.al](https://github.com/BusinessCentralApps/app1/pull/3) — `BusinessCentralApps/app1`
+- 🔴 closed [\[main\] Update AL-Go System Files - 6ecd45ceccdb80aa67ef51d279b48f28301eb362](https://github.com/BusinessCentralApps/app1/pull/4) — `BusinessCentralApps/app1`
+- 🔴 closed [Update app.json](https://github.com/freddydk/BCApps/pull/1) — `freddydk/BCApps`
+- 🔴 closed [Update HelloWorld.al](https://github.com/BusinessCentralApps/buildorder/pull/209) — `BusinessCentralApps/buildorder`
 <!--END_SECTION:prs-->
 
 ### 📦 Recently Active Repositories
 
 <!--START_SECTION:repos-->
+- [microsoft/nav-docker](https://github.com/microsoft/nav-docker)
+- [Freddy-DK/FkhTest](https://github.com/Freddy-DK/FkhTest)
+- [microsoft/nav-arm-templates](https://github.com/microsoft/nav-arm-templates)
+- [BusinessCentralApps/include](https://github.com/BusinessCentralApps/include)
+- [BusinessCentralApps/app1](https://github.com/BusinessCentralApps/app1)
+- [freddydk/BCApps](https://github.com/freddydk/BCApps)
+- [BusinessCentralApps/buildorder](https://github.com/BusinessCentralApps/buildorder)
+- [freddydk/test](https://github.com/freddydk/test)
+- [BusinessCentralApps/bingmaps.pte](https://github.com/BusinessCentralApps/bingmaps.pte)
+- [freddydk/AL-Go](https://github.com/freddydk/AL-Go)
 <!--END_SECTION:repos-->
 
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/BcNuGetHelper](https://github.com/Freddy-DK/BcNuGetHelper)
+- ⬆️ Pushed  commits to `main` in [freddydk/BCApps](https://github.com/freddydk/BCApps)
+- ⬆️ Pushed  commits to `main` in [freddydk/AL-Go](https://github.com/freddydk/AL-Go)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
+- 🔀 closed PR [#2 ](undefined) in [Freddy-DK/FkhTest](https://github.com/Freddy-DK/FkhTest)
+- 💬 Commented on [#233 Install dotnet 8](https://github.com/microsoft/nav-arm-templates/pull/233) in [microsoft/nav-arm-templates](https://github.com/microsoft/nav-arm-templates)
+- 🔀 closed PR [#233 ](undefined) in [microsoft/nav-arm-templates](https://github.com/microsoft/nav-arm-templates)
+- 🔀 closed PR [#4 ](undefined) in [BusinessCentralApps/include](https://github.com/BusinessCentralApps/include)
+- 🔀 closed PR [#5 ](undefined) in [BusinessCentralApps/include](https://github.com/BusinessCentralApps/include)
+- 🔀 closed PR [#6 ](undefined) in [BusinessCentralApps/include](https://github.com/BusinessCentralApps/include)
 <!--END_SECTION:activity-->
 
 
