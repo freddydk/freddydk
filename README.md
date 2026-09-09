@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Fkh (Freddy's Kubernetes Helper), BcNuGetHelper, ALGoCtl, AL-Go for GitHub and other customer related projects
+- 🔭 I’m currently working on:
+  - [Fkh (Freddy's Kubernetes Helper)](https://github.com/Freddy-DK/Fkh) - Making Business Central container-based development fast and easy using Kubernetes in Azure, with access from VS Code, CLI and GitHub Actions, all in your own Azure Subscription.
+  - [BcNuGetHelper](https://github.com/Freddy-DK/BcNuGetHelper) - Building a simple self-hosted NuGet feed for storing and consuming Business Central apps, runtime packages and symbols.
+  - [ALGoCtl](https://github.com/Freddy-DK/ALGoCtl) - Building a command-line tool to make creating, maintaining and operating AL-Go for GitHub repositories easier.
+  - [AL-Go for GitHub](https://github.com/microsoft/AL-Go) - Continuing to improve the plug-and-play DevOps solution for Business Central app development on GitHub.
+  - Customer specific projects - Helping customers and partners solve real-world Business Central development and DevOps challenges.
 - 👯 I’m looking to collaborate on things that will enable people to achieve more...
 - 💖 I’m looking for [sponsors](https://github.com/sponsors/Freddy-DK) who want to help me build tools that enable people to achieve more
 - 🤔 I’m looking for help with nothing really, but appreciate help on everything:-)
