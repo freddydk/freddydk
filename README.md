@@ -35,6 +35,7 @@
 ### 📦 Recently Active Repositories
 
 <!--START_SECTION:repos-->
+- [freddydk/freddydk](https://github.com/freddydk/freddydk)
 - [microsoft/nav-docker](https://github.com/microsoft/nav-docker)
 - [Freddy-DK/FkhTest](https://github.com/Freddy-DK/FkhTest)
 - [microsoft/nav-arm-templates](https://github.com/microsoft/nav-arm-templates)
@@ -44,12 +45,14 @@
 - [BusinessCentralApps/buildorder](https://github.com/BusinessCentralApps/buildorder)
 - [freddydk/test](https://github.com/freddydk/test)
 - [BusinessCentralApps/bingmaps.pte](https://github.com/BusinessCentralApps/bingmaps.pte)
-- [freddydk/AL-Go](https://github.com/freddydk/AL-Go)
 <!--END_SECTION:repos-->
 
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/BcNuGetHelper](https://github.com/Freddy-DK/BcNuGetHelper)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/BcNuGetHelper](https://github.com/Freddy-DK/BcNuGetHelper)
+- ⬆️ Pushed  commits to `main` in [freddydk/freddydk](https://github.com/freddydk/freddydk)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/BcNuGetHelper](https://github.com/Freddy-DK/BcNuGetHelper)
 - ⬆️ Pushed  commits to `main` in [freddydk/BCApps](https://github.com/freddydk/BCApps)
 - ⬆️ Pushed  commits to `main` in [freddydk/AL-Go](https://github.com/freddydk/AL-Go)
@@ -57,9 +60,6 @@
 - 🔀 closed PR [#2 ](undefined) in [Freddy-DK/FkhTest](https://github.com/Freddy-DK/FkhTest)
 - 💬 Commented on [#233 Install dotnet 8](https://github.com/microsoft/nav-arm-templates/pull/233) in [microsoft/nav-arm-templates](https://github.com/microsoft/nav-arm-templates)
 - 🔀 closed PR [#233 ](undefined) in [microsoft/nav-arm-templates](https://github.com/microsoft/nav-arm-templates)
-- 🔀 closed PR [#4 ](undefined) in [BusinessCentralApps/include](https://github.com/BusinessCentralApps/include)
-- 🔀 closed PR [#5 ](undefined) in [BusinessCentralApps/include](https://github.com/BusinessCentralApps/include)
-- 🔀 closed PR [#6 ](undefined) in [BusinessCentralApps/include](https://github.com/BusinessCentralApps/include)
 <!--END_SECTION:activity-->
 
 
