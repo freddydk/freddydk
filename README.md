@@ -52,14 +52,14 @@
 <!--START_SECTION:activity-->
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/BcNuGetHelper](https://github.com/Freddy-DK/BcNuGetHelper)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/BcNuGetHelper](https://github.com/Freddy-DK/BcNuGetHelper)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/BcNuGetHelper](https://github.com/Freddy-DK/BcNuGetHelper)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/BcNuGetHelper](https://github.com/Freddy-DK/BcNuGetHelper)
 - ⬆️ Pushed  commits to `main` in [freddydk/freddydk](https://github.com/freddydk/freddydk)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/BcNuGetHelper](https://github.com/Freddy-DK/BcNuGetHelper)
 - ⬆️ Pushed  commits to `main` in [freddydk/BCApps](https://github.com/freddydk/BCApps)
 - ⬆️ Pushed  commits to `main` in [freddydk/AL-Go](https://github.com/freddydk/AL-Go)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - 🔀 closed PR [#2 ](undefined) in [Freddy-DK/FkhTest](https://github.com/Freddy-DK/FkhTest)
-- 💬 Commented on [#233 Install dotnet 8](https://github.com/microsoft/nav-arm-templates/pull/233) in [microsoft/nav-arm-templates](https://github.com/microsoft/nav-arm-templates)
-- 🔀 closed PR [#233 ](undefined) in [microsoft/nav-arm-templates](https://github.com/microsoft/nav-arm-templates)
 <!--END_SECTION:activity-->
 
 
