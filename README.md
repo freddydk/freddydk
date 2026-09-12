@@ -37,6 +37,7 @@
 <!--START_SECTION:repos-->
 - [freddydk/freddydk](https://github.com/freddydk/freddydk)
 - [microsoft/nav-docker](https://github.com/microsoft/nav-docker)
+- [freddydk/nav-docker](https://github.com/freddydk/nav-docker)
 - [Freddy-DK/FkhTest](https://github.com/Freddy-DK/FkhTest)
 - [microsoft/nav-arm-templates](https://github.com/microsoft/nav-arm-templates)
 - [BusinessCentralApps/include](https://github.com/BusinessCentralApps/include)
@@ -44,12 +45,14 @@
 - [freddydk/BCApps](https://github.com/freddydk/BCApps)
 - [BusinessCentralApps/buildorder](https://github.com/BusinessCentralApps/buildorder)
 - [freddydk/test](https://github.com/freddydk/test)
-- [BusinessCentralApps/bingmaps.pte](https://github.com/BusinessCentralApps/bingmaps.pte)
 <!--END_SECTION:repos-->
 
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed  commits to `main` in [freddydk/freddydk](https://github.com/freddydk/freddydk)
+- ⬆️ Pushed  commits to `main` in [freddydk/freddydk](https://github.com/freddydk/freddydk)
+- ⬆️ Pushed  commits to `Sql2025` in [freddydk/nav-docker](https://github.com/freddydk/nav-docker)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/BcNuGetHelper](https://github.com/Freddy-DK/BcNuGetHelper)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/BcNuGetHelper](https://github.com/Freddy-DK/BcNuGetHelper)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/BcNuGetHelper](https://github.com/Freddy-DK/BcNuGetHelper)
@@ -57,9 +60,6 @@
 - ⬆️ Pushed  commits to `main` in [freddydk/freddydk](https://github.com/freddydk/freddydk)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/BcNuGetHelper](https://github.com/Freddy-DK/BcNuGetHelper)
 - ⬆️ Pushed  commits to `main` in [freddydk/BCApps](https://github.com/freddydk/BCApps)
-- ⬆️ Pushed  commits to `main` in [freddydk/AL-Go](https://github.com/freddydk/AL-Go)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
-- 🔀 closed PR [#2 ](undefined) in [Freddy-DK/FkhTest](https://github.com/Freddy-DK/FkhTest)
 <!--END_SECTION:activity-->
 
 
