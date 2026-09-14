@@ -35,6 +35,7 @@
 ### 📦 Recently Active Repositories
 
 <!--START_SECTION:repos-->
+- [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
 - [freddydk/freddydk](https://github.com/freddydk/freddydk)
 - [microsoft/nav-docker](https://github.com/microsoft/nav-docker)
 - [freddydk/nav-docker](https://github.com/freddydk/nav-docker)
@@ -44,22 +45,21 @@
 - [BusinessCentralApps/app1](https://github.com/BusinessCentralApps/app1)
 - [freddydk/BCApps](https://github.com/freddydk/BCApps)
 - [BusinessCentralApps/buildorder](https://github.com/BusinessCentralApps/buildorder)
-- [freddydk/test](https://github.com/freddydk/test)
 <!--END_SECTION:repos-->
 
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
 - ⬆️ Pushed  commits to `main` in [freddydk/freddydk](https://github.com/freddydk/freddydk)
 - ⬆️ Pushed  commits to `main` in [freddydk/freddydk](https://github.com/freddydk/freddydk)
 - ⬆️ Pushed  commits to `Sql2025` in [freddydk/nav-docker](https://github.com/freddydk/nav-docker)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/BcNuGetHelper](https://github.com/Freddy-DK/BcNuGetHelper)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/BcNuGetHelper](https://github.com/Freddy-DK/BcNuGetHelper)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/BcNuGetHelper](https://github.com/Freddy-DK/BcNuGetHelper)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/BcNuGetHelper](https://github.com/Freddy-DK/BcNuGetHelper)
-- ⬆️ Pushed  commits to `main` in [freddydk/freddydk](https://github.com/freddydk/freddydk)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/BcNuGetHelper](https://github.com/Freddy-DK/BcNuGetHelper)
-- ⬆️ Pushed  commits to `main` in [freddydk/BCApps](https://github.com/freddydk/BCApps)
 <!--END_SECTION:activity-->
 
 
