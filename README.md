@@ -50,6 +50,9 @@
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- 🌿 Created branch `main` in [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
@@ -57,9 +60,6 @@
 - ⬆️ Pushed  commits to `main` in [freddydk/freddydk](https://github.com/freddydk/freddydk)
 - ⬆️ Pushed  commits to `main` in [freddydk/freddydk](https://github.com/freddydk/freddydk)
 - ⬆️ Pushed  commits to `Sql2025` in [freddydk/nav-docker](https://github.com/freddydk/nav-docker)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/BcNuGetHelper](https://github.com/Freddy-DK/BcNuGetHelper)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/BcNuGetHelper](https://github.com/Freddy-DK/BcNuGetHelper)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/BcNuGetHelper](https://github.com/Freddy-DK/BcNuGetHelper)
 <!--END_SECTION:activity-->
 
 
