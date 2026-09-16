@@ -20,6 +20,7 @@
 ### 🔀 Recent Pull Requests
 
 <!--START_SECTION:prs-->
+- 🟢 open [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) — `microsoft/AL-Go`
 - 🟢 open [Support for SQL 2025](https://github.com/microsoft/nav-docker/pull/621) — `microsoft/nav-docker`
 - 🔴 closed [Add description to app.json for TestApp2](https://github.com/Freddy-DK/FkhTest/pull/2) — `Freddy-DK/FkhTest`
 - 🔴 closed [Install dotnet 8](https://github.com/microsoft/nav-arm-templates/pull/233) — `microsoft/nav-arm-templates`
@@ -29,12 +30,14 @@
 - 🔴 closed [Update HelloWorld.al](https://github.com/BusinessCentralApps/app1/pull/3) — `BusinessCentralApps/app1`
 - 🔴 closed [\[main\] Update AL-Go System Files - 6ecd45ceccdb80aa67ef51d279b48f28301eb362](https://github.com/BusinessCentralApps/app1/pull/4) — `BusinessCentralApps/app1`
 - 🔴 closed [Update app.json](https://github.com/freddydk/BCApps/pull/1) — `freddydk/BCApps`
-- 🔴 closed [Update HelloWorld.al](https://github.com/BusinessCentralApps/buildorder/pull/209) — `BusinessCentralApps/buildorder`
 <!--END_SECTION:prs-->
 
 ### 📦 Recently Active Repositories
 
 <!--START_SECTION:repos-->
+- [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
+- [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
+- [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
 - [freddydk/freddydk](https://github.com/freddydk/freddydk)
 - [microsoft/nav-docker](https://github.com/microsoft/nav-docker)
@@ -42,24 +45,21 @@
 - [Freddy-DK/FkhTest](https://github.com/Freddy-DK/FkhTest)
 - [microsoft/nav-arm-templates](https://github.com/microsoft/nav-arm-templates)
 - [BusinessCentralApps/include](https://github.com/BusinessCentralApps/include)
-- [BusinessCentralApps/app1](https://github.com/BusinessCentralApps/app1)
-- [freddydk/BCApps](https://github.com/freddydk/BCApps)
-- [BusinessCentralApps/buildorder](https://github.com/BusinessCentralApps/buildorder)
 <!--END_SECTION:repos-->
 
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
+- 💬 Commented on [#2309 Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - 🌿 Created branch `main` in [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
-- ⬆️ Pushed  commits to `main` in [freddydk/freddydk](https://github.com/freddydk/freddydk)
-- ⬆️ Pushed  commits to `main` in [freddydk/freddydk](https://github.com/freddydk/freddydk)
-- ⬆️ Pushed  commits to `Sql2025` in [freddydk/nav-docker](https://github.com/freddydk/nav-docker)
 <!--END_SECTION:activity-->
 
 
