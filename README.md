@@ -20,6 +20,7 @@
 ### 🔀 Recent Pull Requests
 
 <!--START_SECTION:prs-->
+- 🟣 merged [Use managed identity for azure monitor](https://github.com/Freddy-DK/Fkh/pull/78) — `Freddy-DK/Fkh`
 - 🟢 open [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) — `microsoft/AL-Go`
 - 🟢 open [Support for SQL 2025](https://github.com/microsoft/nav-docker/pull/621) — `microsoft/nav-docker`
 - 🔴 closed [Add description to app.json for TestApp2](https://github.com/Freddy-DK/FkhTest/pull/2) — `Freddy-DK/FkhTest`
@@ -29,12 +30,12 @@
 - 🔴 closed [Update HelloWorld.al](https://github.com/BusinessCentralApps/include/pull/6) — `BusinessCentralApps/include`
 - 🔴 closed [Update HelloWorld.al](https://github.com/BusinessCentralApps/app1/pull/3) — `BusinessCentralApps/app1`
 - 🔴 closed [\[main\] Update AL-Go System Files - 6ecd45ceccdb80aa67ef51d279b48f28301eb362](https://github.com/BusinessCentralApps/app1/pull/4) — `BusinessCentralApps/app1`
-- 🔴 closed [Update app.json](https://github.com/freddydk/BCApps/pull/1) — `freddydk/BCApps`
 <!--END_SECTION:prs-->
 
 ### 📦 Recently Active Repositories
 
 <!--START_SECTION:repos-->
+- [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
@@ -44,22 +45,21 @@
 - [freddydk/nav-docker](https://github.com/freddydk/nav-docker)
 - [Freddy-DK/FkhTest](https://github.com/Freddy-DK/FkhTest)
 - [microsoft/nav-arm-templates](https://github.com/microsoft/nav-arm-templates)
-- [BusinessCentralApps/include](https://github.com/BusinessCentralApps/include)
 <!--END_SECTION:repos-->
 
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- 🔀 merged PR [#78 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
+- 🔀 opened PR [#78 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
+- 💬 Commented on [#2367 Enhance NuGet feed selection to support pre-release packages](https://github.com/microsoft/AL-Go/pull/2367) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - 💬 Commented on [#2309 Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
-- 🌿 Created branch `main` in [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
 <!--END_SECTION:activity-->
 
 
