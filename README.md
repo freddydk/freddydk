@@ -20,8 +20,8 @@
 ### 🔀 Recent Pull Requests
 
 <!--START_SECTION:prs-->
-- 🟣 merged [Use managed identity for azure monitor](https://github.com/Freddy-DK/Fkh/pull/78) — `Freddy-DK/Fkh`
 - 🟢 open [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) — `microsoft/AL-Go`
+- 🟣 merged [Use managed identity for azure monitor](https://github.com/Freddy-DK/Fkh/pull/78) — `Freddy-DK/Fkh`
 - 🟢 open [Support for SQL 2025](https://github.com/microsoft/nav-docker/pull/621) — `microsoft/nav-docker`
 - 🔴 closed [Add description to app.json for TestApp2](https://github.com/Freddy-DK/FkhTest/pull/2) — `Freddy-DK/FkhTest`
 - 🔴 closed [Install dotnet 8](https://github.com/microsoft/nav-arm-templates/pull/233) — `microsoft/nav-arm-templates`
@@ -35,8 +35,8 @@
 ### 📦 Recently Active Repositories
 
 <!--START_SECTION:repos-->
-- [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
+- [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
