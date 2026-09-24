@@ -35,6 +35,7 @@
 ### 📦 Recently Active Repositories
 
 <!--START_SECTION:repos-->
+- [ajansari/BootcampRegistrationApp](https://github.com/ajansari/BootcampRegistrationApp)
 - [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
@@ -44,12 +45,12 @@
 - [microsoft/nav-docker](https://github.com/microsoft/nav-docker)
 - [freddydk/nav-docker](https://github.com/freddydk/nav-docker)
 - [Freddy-DK/FkhTest](https://github.com/Freddy-DK/FkhTest)
-- [microsoft/nav-arm-templates](https://github.com/microsoft/nav-arm-templates)
 <!--END_SECTION:repos-->
 
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- ⭐ Starred [ajansari/BootcampRegistrationApp](https://github.com/ajansari/BootcampRegistrationApp)
 - 🔀 merged PR [#78 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - 🔀 opened PR [#78 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
@@ -57,7 +58,6 @@
 - 💬 Commented on [#2367 Enhance NuGet feed selection to support pre-release packages](https://github.com/microsoft/AL-Go/pull/2367) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - 💬 Commented on [#2309 Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 <!--END_SECTION:activity-->
