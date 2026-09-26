@@ -36,20 +36,23 @@
 
 <!--START_SECTION:repos-->
 - [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
-- [ajansari/BootcampRegistrationApp](https://github.com/ajansari/BootcampRegistrationApp)
+- [Freddy-DK/navcontainerhelper](https://github.com/Freddy-DK/navcontainerhelper)
 - [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
+- [ajansari/BootcampRegistrationApp](https://github.com/ajansari/BootcampRegistrationApp)
 - [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
 - [freddydk/freddydk](https://github.com/freddydk/freddydk)
 - [microsoft/nav-docker](https://github.com/microsoft/nav-docker)
 - [freddydk/nav-docker](https://github.com/freddydk/nav-docker)
-- [Freddy-DK/FkhTest](https://github.com/Freddy-DK/FkhTest)
 <!--END_SECTION:repos-->
 
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- 💬 Commented on [#2309 Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/navcontainerhelper](https://github.com/Freddy-DK/navcontainerhelper)
+- 🌿 Created branch `DependenciesUpdate` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - ⭐ Starred [ajansari/BootcampRegistrationApp](https://github.com/ajansari/BootcampRegistrationApp)
 - 🔀 merged PR [#78 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
@@ -57,9 +60,6 @@
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - 💬 Commented on [#2367 Enhance NuGet feed selection to support pre-release packages](https://github.com/microsoft/AL-Go/pull/2367) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
-- 💬 Commented on [#2309 Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 <!--END_SECTION:activity-->
 
 
