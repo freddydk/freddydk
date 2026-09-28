@@ -35,6 +35,7 @@
 ### 📦 Recently Active Repositories
 
 <!--START_SECTION:repos-->
+- [Freddy-DK/AL-Go-Tools](https://github.com/Freddy-DK/AL-Go-Tools)
 - [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 - [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
@@ -44,22 +45,21 @@
 - [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
 - [freddydk/freddydk](https://github.com/freddydk/freddydk)
-- [microsoft/nav-docker](https://github.com/microsoft/nav-docker)
 <!--END_SECTION:repos-->
 
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go-Tools](https://github.com/Freddy-DK/AL-Go-Tools)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go-Tools](https://github.com/Freddy-DK/AL-Go-Tools)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go-Tools](https://github.com/Freddy-DK/AL-Go-Tools)
+- 🌿 Created branch `main` in [Freddy-DK/AL-Go-Tools](https://github.com/Freddy-DK/AL-Go-Tools)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - 💬 Commented on [#2309 Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/navcontainerhelper](https://github.com/Freddy-DK/navcontainerhelper)
 - 🌿 Created branch `DependenciesUpdate` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
-- ⭐ Starred [ajansari/BootcampRegistrationApp](https://github.com/ajansari/BootcampRegistrationApp)
-- 🔀 merged PR [#78 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
-- 🔀 opened PR [#78 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 <!--END_SECTION:activity-->
 
 
