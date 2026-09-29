@@ -21,6 +21,8 @@
 
 <!--START_SECTION:prs-->
 - 🟢 open [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) — `microsoft/AL-Go`
+- 🟢 open [move the BuildInitialize hook to after determine build project](https://github.com/microsoft/AL-Go/pull/2265) — `microsoft/AL-Go`
+- 🟢 open [Update Dependency version numbers and upgrade to AKS 1.35](https://github.com/Freddy-DK/Fkh/pull/79) — `Freddy-DK/Fkh`
 - 🟣 merged [Use managed identity for azure monitor](https://github.com/Freddy-DK/Fkh/pull/78) — `Freddy-DK/Fkh`
 - 🟢 open [Support for SQL 2025](https://github.com/microsoft/nav-docker/pull/621) — `microsoft/nav-docker`
 - 🔴 closed [Add description to app.json for TestApp2](https://github.com/Freddy-DK/FkhTest/pull/2) — `Freddy-DK/FkhTest`
@@ -28,19 +30,17 @@
 - 🔴 closed [Update HelloWorld.al](https://github.com/BusinessCentralApps/include/pull/4) — `BusinessCentralApps/include`
 - 🔴 closed [Update HelloWorld.al](https://github.com/BusinessCentralApps/include/pull/5) — `BusinessCentralApps/include`
 - 🔴 closed [Update HelloWorld.al](https://github.com/BusinessCentralApps/include/pull/6) — `BusinessCentralApps/include`
-- 🔴 closed [Update HelloWorld.al](https://github.com/BusinessCentralApps/app1/pull/3) — `BusinessCentralApps/app1`
-- 🔴 closed [\[main\] Update AL-Go System Files - 6ecd45ceccdb80aa67ef51d279b48f28301eb362](https://github.com/BusinessCentralApps/app1/pull/4) — `BusinessCentralApps/app1`
 <!--END_SECTION:prs-->
 
 ### 📦 Recently Active Repositories
 
 <!--START_SECTION:repos-->
+- [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
+- [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - [Freddy-DK/AL-Go-Tools](https://github.com/Freddy-DK/AL-Go-Tools)
 - [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
-- [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - [Freddy-DK/navcontainerhelper](https://github.com/Freddy-DK/navcontainerhelper)
-- [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - [ajansari/BootcampRegistrationApp](https://github.com/ajansari/BootcampRegistrationApp)
 - [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
@@ -50,6 +50,7 @@
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- 🔀 opened PR [#79 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go-Tools](https://github.com/Freddy-DK/AL-Go-Tools)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go-Tools](https://github.com/Freddy-DK/AL-Go-Tools)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go-Tools](https://github.com/Freddy-DK/AL-Go-Tools)
@@ -59,7 +60,6 @@
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - 💬 Commented on [#2309 Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/navcontainerhelper](https://github.com/Freddy-DK/navcontainerhelper)
-- 🌿 Created branch `DependenciesUpdate` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 <!--END_SECTION:activity-->
 
 
