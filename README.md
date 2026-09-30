@@ -20,9 +20,9 @@
 ### 🔀 Recent Pull Requests
 
 <!--START_SECTION:prs-->
+- 🟣 merged [Update Dependency version numbers and upgrade to AKS 1.35](https://github.com/Freddy-DK/Fkh/pull/79) — `Freddy-DK/Fkh`
 - 🟢 open [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) — `microsoft/AL-Go`
 - 🟢 open [move the BuildInitialize hook to after determine build project](https://github.com/microsoft/AL-Go/pull/2265) — `microsoft/AL-Go`
-- 🟢 open [Update Dependency version numbers and upgrade to AKS 1.35](https://github.com/Freddy-DK/Fkh/pull/79) — `Freddy-DK/Fkh`
 - 🟣 merged [Use managed identity for azure monitor](https://github.com/Freddy-DK/Fkh/pull/78) — `Freddy-DK/Fkh`
 - 🟢 open [Support for SQL 2025](https://github.com/microsoft/nav-docker/pull/621) — `microsoft/nav-docker`
 - 🔴 closed [Add description to app.json for TestApp2](https://github.com/Freddy-DK/FkhTest/pull/2) — `Freddy-DK/FkhTest`
@@ -35,8 +35,8 @@
 ### 📦 Recently Active Repositories
 
 <!--START_SECTION:repos-->
-- [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
+- [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - [Freddy-DK/AL-Go-Tools](https://github.com/Freddy-DK/AL-Go-Tools)
 - [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 - [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
@@ -50,6 +50,8 @@
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
+- 🔀 merged PR [#79 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - 🔀 opened PR [#79 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go-Tools](https://github.com/Freddy-DK/AL-Go-Tools)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go-Tools](https://github.com/Freddy-DK/AL-Go-Tools)
@@ -58,8 +60,6 @@
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
-- 💬 Commented on [#2309 Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/navcontainerhelper](https://github.com/Freddy-DK/navcontainerhelper)
 <!--END_SECTION:activity-->
 
 
