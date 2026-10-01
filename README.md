@@ -20,6 +20,7 @@
 ### 🔀 Recent Pull Requests
 
 <!--START_SECTION:prs-->
+- 🟢 open [Retired services](https://github.com/Freddy-DK/Fkh/pull/80) — `Freddy-DK/Fkh`
 - 🟣 merged [Update Dependency version numbers and upgrade to AKS 1.35](https://github.com/Freddy-DK/Fkh/pull/79) — `Freddy-DK/Fkh`
 - 🟢 open [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) — `microsoft/AL-Go`
 - 🟢 open [move the BuildInitialize hook to after determine build project](https://github.com/microsoft/AL-Go/pull/2265) — `microsoft/AL-Go`
@@ -29,7 +30,6 @@
 - 🔴 closed [Install dotnet 8](https://github.com/microsoft/nav-arm-templates/pull/233) — `microsoft/nav-arm-templates`
 - 🔴 closed [Update HelloWorld.al](https://github.com/BusinessCentralApps/include/pull/4) — `BusinessCentralApps/include`
 - 🔴 closed [Update HelloWorld.al](https://github.com/BusinessCentralApps/include/pull/5) — `BusinessCentralApps/include`
-- 🔴 closed [Update HelloWorld.al](https://github.com/BusinessCentralApps/include/pull/6) — `BusinessCentralApps/include`
 <!--END_SECTION:prs-->
 
 ### 📦 Recently Active Repositories
@@ -50,6 +50,8 @@
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed  commits to `RetiredServices` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
+- 🔀 opened PR [#80 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - 🔀 merged PR [#79 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - 🔀 opened PR [#79 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
@@ -58,8 +60,6 @@
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go-Tools](https://github.com/Freddy-DK/AL-Go-Tools)
 - 🌿 Created branch `main` in [Freddy-DK/AL-Go-Tools](https://github.com/Freddy-DK/AL-Go-Tools)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 <!--END_SECTION:activity-->
 
 
