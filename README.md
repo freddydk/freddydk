@@ -20,9 +20,9 @@
 ### 🔀 Recent Pull Requests
 
 <!--START_SECTION:prs-->
+- 🟢 open [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) — `microsoft/AL-Go`
 - 🟢 open [Retired services](https://github.com/Freddy-DK/Fkh/pull/80) — `Freddy-DK/Fkh`
 - 🟣 merged [Update Dependency version numbers and upgrade to AKS 1.35](https://github.com/Freddy-DK/Fkh/pull/79) — `Freddy-DK/Fkh`
-- 🟢 open [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) — `microsoft/AL-Go`
 - 🟢 open [move the BuildInitialize hook to after determine build project](https://github.com/microsoft/AL-Go/pull/2265) — `microsoft/AL-Go`
 - 🟣 merged [Use managed identity for azure monitor](https://github.com/Freddy-DK/Fkh/pull/78) — `Freddy-DK/Fkh`
 - 🟢 open [Support for SQL 2025](https://github.com/microsoft/nav-docker/pull/621) — `microsoft/nav-docker`
@@ -35,31 +35,31 @@
 ### 📦 Recently Active Repositories
 
 <!--START_SECTION:repos-->
-- [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
+- [Freddy-DK/AL-Go-AppSource](https://github.com/Freddy-DK/AL-Go-AppSource)
+- [Freddy-DK/AL-Go-PTE](https://github.com/Freddy-DK/AL-Go-PTE)
 - [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
+- [freddydk/nav-arm-templates](https://github.com/freddydk/nav-arm-templates)
+- [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - [Freddy-DK/AL-Go-Tools](https://github.com/Freddy-DK/AL-Go-Tools)
 - [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 - [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - [Freddy-DK/navcontainerhelper](https://github.com/Freddy-DK/navcontainerhelper)
 - [ajansari/BootcampRegistrationApp](https://github.com/ajansari/BootcampRegistrationApp)
-- [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
-- [Freddy-DK/BusinessCentral-skills](https://github.com/Freddy-DK/BusinessCentral-skills)
-- [freddydk/freddydk](https://github.com/freddydk/freddydk)
 <!--END_SECTION:repos-->
 
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go-AppSource](https://github.com/Freddy-DK/AL-Go-AppSource)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go-PTE](https://github.com/Freddy-DK/AL-Go-PTE)
+- ⬆️ Pushed  commits to `main` in [freddydk/nav-arm-templates](https://github.com/freddydk/nav-arm-templates)
+- ⬆️ Pushed  commits to `main` in [freddydk/nav-arm-templates](https://github.com/freddydk/nav-arm-templates)
 - ⬆️ Pushed  commits to `RetiredServices` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - 🔀 opened PR [#80 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - 🔀 merged PR [#79 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - 🔀 opened PR [#79 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go-Tools](https://github.com/Freddy-DK/AL-Go-Tools)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go-Tools](https://github.com/Freddy-DK/AL-Go-Tools)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go-Tools](https://github.com/Freddy-DK/AL-Go-Tools)
-- 🌿 Created branch `main` in [Freddy-DK/AL-Go-Tools](https://github.com/Freddy-DK/AL-Go-Tools)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 <!--END_SECTION:activity-->
 
 
