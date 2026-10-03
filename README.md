@@ -35,14 +35,14 @@
 ### 📦 Recently Active Repositories
 
 <!--START_SECTION:repos-->
+- [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
+- [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - [Freddy-DK/AL-Go-AppSource](https://github.com/Freddy-DK/AL-Go-AppSource)
 - [Freddy-DK/AL-Go-PTE](https://github.com/Freddy-DK/AL-Go-PTE)
-- [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - [freddydk/nav-arm-templates](https://github.com/freddydk/nav-arm-templates)
 - [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - [Freddy-DK/AL-Go-Tools](https://github.com/Freddy-DK/AL-Go-Tools)
 - [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
-- [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - [Freddy-DK/navcontainerhelper](https://github.com/Freddy-DK/navcontainerhelper)
 - [ajansari/BootcampRegistrationApp](https://github.com/ajansari/BootcampRegistrationApp)
 <!--END_SECTION:repos-->
@@ -50,16 +50,16 @@
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- 💬 Commented on [#2389 \[Bug\]: When deploying from an AL-Go fork, some URLs are wrong](https://github.com/microsoft/AL-Go/issues/2389) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
+- 🐛 labeled issue [#2389 \[Bug\]: When deploying from an AL-Go fork, some URLs are wrong](https://github.com/microsoft/AL-Go/issues/2389) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
+- 🐛 opened issue [#2389 \[Bug\]: When deploying from an AL-Go fork, some URLs are wrong](https://github.com/microsoft/AL-Go/issues/2389) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go-AppSource](https://github.com/Freddy-DK/AL-Go-AppSource)
+- 🌿 Created branch `deliverbug` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go-AppSource](https://github.com/Freddy-DK/AL-Go-AppSource)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go-PTE](https://github.com/Freddy-DK/AL-Go-PTE)
 - ⬆️ Pushed  commits to `main` in [freddydk/nav-arm-templates](https://github.com/freddydk/nav-arm-templates)
 - ⬆️ Pushed  commits to `main` in [freddydk/nav-arm-templates](https://github.com/freddydk/nav-arm-templates)
 - ⬆️ Pushed  commits to `RetiredServices` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
-- 🔀 opened PR [#80 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
-- 🔀 merged PR [#79 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
-- 🔀 opened PR [#79 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go-Tools](https://github.com/Freddy-DK/AL-Go-Tools)
 <!--END_SECTION:activity-->
 
 
