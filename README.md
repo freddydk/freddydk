@@ -35,6 +35,7 @@
 ### 📦 Recently Active Repositories
 
 <!--START_SECTION:repos-->
+- [microsoft/navcontainerhelper](https://github.com/microsoft/navcontainerhelper)
 - [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - [Freddy-DK/AL-Go-AppSource](https://github.com/Freddy-DK/AL-Go-AppSource)
@@ -44,12 +45,14 @@
 - [Freddy-DK/AL-Go-Tools](https://github.com/Freddy-DK/AL-Go-Tools)
 - [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 - [Freddy-DK/navcontainerhelper](https://github.com/Freddy-DK/navcontainerhelper)
-- [ajansari/BootcampRegistrationApp](https://github.com/ajansari/BootcampRegistrationApp)
 <!--END_SECTION:repos-->
 
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go-PTE](https://github.com/Freddy-DK/AL-Go-PTE)
+- 💬 Commented on [#3966 Fix package ID length adjustment logic in Get-BcNuGetPackageId function](https://github.com/microsoft/navcontainerhelper/pull/3966) in [microsoft/navcontainerhelper](https://github.com/microsoft/navcontainerhelper)
 - 💬 Commented on [#2389 \[Bug\]: When deploying from an AL-Go fork, some URLs are wrong](https://github.com/microsoft/AL-Go/issues/2389) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - 🐛 labeled issue [#2389 \[Bug\]: When deploying from an AL-Go fork, some URLs are wrong](https://github.com/microsoft/AL-Go/issues/2389) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - 🐛 opened issue [#2389 \[Bug\]: When deploying from an AL-Go fork, some URLs are wrong](https://github.com/microsoft/AL-Go/issues/2389) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
@@ -57,9 +60,6 @@
 - 🌿 Created branch `deliverbug` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go-AppSource](https://github.com/Freddy-DK/AL-Go-AppSource)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go-PTE](https://github.com/Freddy-DK/AL-Go-PTE)
-- ⬆️ Pushed  commits to `main` in [freddydk/nav-arm-templates](https://github.com/freddydk/nav-arm-templates)
-- ⬆️ Pushed  commits to `main` in [freddydk/nav-arm-templates](https://github.com/freddydk/nav-arm-templates)
-- ⬆️ Pushed  commits to `RetiredServices` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 <!--END_SECTION:activity-->
 
 
