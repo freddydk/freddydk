@@ -20,8 +20,8 @@
 ### 🔀 Recent Pull Requests
 
 <!--START_SECTION:prs-->
-- 🟢 open [move the BuildInitialize hook to after determine build project](https://github.com/microsoft/AL-Go/pull/2265) — `microsoft/AL-Go`
 - 🟢 open [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) — `microsoft/AL-Go`
+- 🟢 open [move the BuildInitialize hook to after determine build project](https://github.com/microsoft/AL-Go/pull/2265) — `microsoft/AL-Go`
 - 🟢 open [Retired services](https://github.com/Freddy-DK/Fkh/pull/80) — `Freddy-DK/Fkh`
 - 🟣 merged [Update Dependency version numbers and upgrade to AKS 1.35](https://github.com/Freddy-DK/Fkh/pull/79) — `Freddy-DK/Fkh`
 - 🟣 merged [Use managed identity for azure monitor](https://github.com/Freddy-DK/Fkh/pull/78) — `Freddy-DK/Fkh`
