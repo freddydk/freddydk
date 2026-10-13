@@ -50,6 +50,7 @@
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed  commits to `cleanuplog` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - ⬆️ Pushed  commits to `cleanuplog` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - ⬆️ Pushed  commits to `cleanuplog` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
@@ -59,7 +60,6 @@
 - 💬 Commented on [#2389 \[Bug\]: When deploying from an AL-Go fork, some URLs are wrong](https://github.com/microsoft/AL-Go/issues/2389) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - 🐛 labeled issue [#2389 \[Bug\]: When deploying from an AL-Go fork, some URLs are wrong](https://github.com/microsoft/AL-Go/issues/2389) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - 🐛 opened issue [#2389 \[Bug\]: When deploying from an AL-Go fork, some URLs are wrong](https://github.com/microsoft/AL-Go/issues/2389) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go-AppSource](https://github.com/Freddy-DK/AL-Go-AppSource)
 <!--END_SECTION:activity-->
 
 
