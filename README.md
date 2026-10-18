@@ -20,6 +20,7 @@
 ### 🔀 Recent Pull Requests
 
 <!--START_SECTION:prs-->
+- 🟢 open [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2407) — `microsoft/AL-Go`
 - 🟢 open [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) — `microsoft/AL-Go`
 - 🟣 merged [Confirm protected commands in the VSIX](https://github.com/Freddy-DK/Fkh/pull/84) — `Freddy-DK/Fkh`
 - 🟣 merged [Register cleanupFkh for E2E coverage](https://github.com/Freddy-DK/Fkh/pull/82) — `Freddy-DK/Fkh`
@@ -29,16 +30,15 @@
 - 🟣 merged [Use managed identity for azure monitor](https://github.com/Freddy-DK/Fkh/pull/78) — `Freddy-DK/Fkh`
 - 🟢 open [Support for SQL 2025](https://github.com/microsoft/nav-docker/pull/621) — `microsoft/nav-docker`
 - 🔴 closed [Add description to app.json for TestApp2](https://github.com/Freddy-DK/FkhTest/pull/2) — `Freddy-DK/FkhTest`
-- 🔴 closed [Install dotnet 8](https://github.com/microsoft/nav-arm-templates/pull/233) — `microsoft/nav-arm-templates`
 <!--END_SECTION:prs-->
 
 ### 📦 Recently Active Repositories
 
 <!--START_SECTION:repos-->
 - [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
+- [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - [microsoft/navcontainerhelper](https://github.com/microsoft/navcontainerhelper)
-- [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - [Freddy-DK/AL-Go-AppSource](https://github.com/Freddy-DK/AL-Go-AppSource)
 - [Freddy-DK/AL-Go-PTE](https://github.com/Freddy-DK/AL-Go-PTE)
 - [freddydk/nav-arm-templates](https://github.com/freddydk/nav-arm-templates)
@@ -50,16 +50,16 @@
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed  commits to `ghenterprise` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
+- ⬆️ Pushed  commits to `deliverbug` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
+- 🔀 opened PR [#2407 ](undefined) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - ⬆️ Pushed  commits to `cleanuplog` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - ⬆️ Pushed  commits to `cleanuplog` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - ⬆️ Pushed  commits to `cleanuplog` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/AL-Go-PTE](https://github.com/Freddy-DK/AL-Go-PTE)
-- 💬 Commented on [#3966 Fix package ID length adjustment logic in Get-BcNuGetPackageId function](https://github.com/microsoft/navcontainerhelper/pull/3966) in [microsoft/navcontainerhelper](https://github.com/microsoft/navcontainerhelper)
-- 💬 Commented on [#2389 \[Bug\]: When deploying from an AL-Go fork, some URLs are wrong](https://github.com/microsoft/AL-Go/issues/2389) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
-- 🐛 labeled issue [#2389 \[Bug\]: When deploying from an AL-Go fork, some URLs are wrong](https://github.com/microsoft/AL-Go/issues/2389) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
-- 🐛 opened issue [#2389 \[Bug\]: When deploying from an AL-Go fork, some URLs are wrong](https://github.com/microsoft/AL-Go/issues/2389) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 <!--END_SECTION:activity-->
 
 
