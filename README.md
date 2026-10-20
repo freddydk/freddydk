@@ -51,6 +51,8 @@
 
 <!--START_SECTION:activity-->
 - ⬆️ Pushed  commits to `ghenterprise` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
+- 🌿 Created branch `ghenterprise` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
+- ⬆️ Pushed  commits to `ghenterprise` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - ⬆️ Pushed  commits to `ghenterprise` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - ⬆️ Pushed  commits to `ghenterprise` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - 💬 Commented on [#2407 Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2407) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
@@ -58,8 +60,6 @@
 - ⬆️ Pushed  commits to `ghenterprise` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - ⬆️ Pushed  commits to `ghenterprise` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - ⬆️ Pushed  commits to `ghenterprise` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
-- ⬆️ Pushed  commits to `deliverbug` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
-- 🔀 opened PR [#2407 ](undefined) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 <!--END_SECTION:activity-->
 
 
