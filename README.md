@@ -20,16 +20,16 @@
 ### 🔀 Recent Pull Requests
 
 <!--START_SECTION:prs-->
+- 🟢 open [Include agentic workflows when updating system files from AL-Go or indirect templates](https://github.com/microsoft/AL-Go/pull/2409) — `microsoft/AL-Go`
 - 🟢 open [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2407) — `microsoft/AL-Go`
-- 🟢 open [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) — `microsoft/AL-Go`
+- 🔴 closed [Include agentic workflows when updating system files from AL-Go or indirect templates](https://github.com/Freddy-DK/AL-Go/pull/3) — `Freddy-DK/AL-Go`
+- 🔴 closed [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) — `microsoft/AL-Go`
 - 🟣 merged [Confirm protected commands in the VSIX](https://github.com/Freddy-DK/Fkh/pull/84) — `Freddy-DK/Fkh`
 - 🟣 merged [Register cleanupFkh for E2E coverage](https://github.com/Freddy-DK/Fkh/pull/82) — `Freddy-DK/Fkh`
 - 🟢 open [Retired services and SQL 2025 support](https://github.com/Freddy-DK/Fkh/pull/80) — `Freddy-DK/Fkh`
 - 🟢 open [move the BuildInitialize hook to after determine build project](https://github.com/microsoft/AL-Go/pull/2265) — `microsoft/AL-Go`
 - 🟣 merged [Update Dependency version numbers and upgrade to AKS 1.35](https://github.com/Freddy-DK/Fkh/pull/79) — `Freddy-DK/Fkh`
 - 🟣 merged [Use managed identity for azure monitor](https://github.com/Freddy-DK/Fkh/pull/78) — `Freddy-DK/Fkh`
-- 🟢 open [Support for SQL 2025](https://github.com/microsoft/nav-docker/pull/621) — `microsoft/nav-docker`
-- 🔴 closed [Add description to app.json for TestApp2](https://github.com/Freddy-DK/FkhTest/pull/2) — `Freddy-DK/FkhTest`
 <!--END_SECTION:prs-->
 
 ### 📦 Recently Active Repositories
@@ -50,15 +50,15 @@
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed  commits to `ghenterprise` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
-- 🌿 Created branch `ghenterprise` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
-- ⬆️ Pushed  commits to `ghenterprise` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
-- ⬆️ Pushed  commits to `ghenterprise` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
-- ⬆️ Pushed  commits to `ghenterprise` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
-- 💬 Commented on [#2407 Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2407) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
-- ⬆️ Pushed  commits to `ghenterprise` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
-- ⬆️ Pushed  commits to `ghenterprise` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
-- ⬆️ Pushed  commits to `ghenterprise` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
+- 🌿 Created branch `copymd` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
+- ⬆️ Pushed  commits to `copymd` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
+- 💬 Commented on [#2409 Include agentic workflows when updating system files from AL-Go or indirect templates](https://github.com/microsoft/AL-Go/pull/2409) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
+- 🔀 opened PR [#2409 ](undefined) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
+- 🔀 closed PR [#3 ](undefined) in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
+- 🔀 opened PR [#3 ](undefined) in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
+- ⬆️ Pushed  commits to `copymd` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
+- 🔀 closed PR [#2309 ](undefined) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
+- 💬 Commented on [#2309 Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - ⬆️ Pushed  commits to `ghenterprise` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 <!--END_SECTION:activity-->
 
