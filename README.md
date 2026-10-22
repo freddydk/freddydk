@@ -20,8 +20,8 @@
 ### 🔀 Recent Pull Requests
 
 <!--START_SECTION:prs-->
-- 🟢 open [Include agentic workflows when updating system files from AL-Go or indirect templates](https://github.com/microsoft/AL-Go/pull/2409) — `microsoft/AL-Go`
 - 🟢 open [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2407) — `microsoft/AL-Go`
+- 🟢 open [Include agentic workflows when updating system files from AL-Go or indirect templates](https://github.com/microsoft/AL-Go/pull/2409) — `microsoft/AL-Go`
 - 🔴 closed [Include agentic workflows when updating system files from AL-Go or indirect templates](https://github.com/Freddy-DK/AL-Go/pull/3) — `Freddy-DK/AL-Go`
 - 🔴 closed [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) — `microsoft/AL-Go`
 - 🟣 merged [Confirm protected commands in the VSIX](https://github.com/Freddy-DK/Fkh/pull/84) — `Freddy-DK/Fkh`
@@ -44,22 +44,22 @@
 - [freddydk/nav-arm-templates](https://github.com/freddydk/nav-arm-templates)
 - [Freddy-DK/AL-Go-Tools](https://github.com/Freddy-DK/AL-Go-Tools)
 - [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
-- [Freddy-DK/navcontainerhelper](https://github.com/Freddy-DK/navcontainerhelper)
+- [microsoft/nav-docker](https://github.com/microsoft/nav-docker)
 <!--END_SECTION:repos-->
 
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed  commits to `copymd` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
+- ⬆️ Pushed  commits to `copymd` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
+- ⬆️ Pushed  commits to `copymd` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
+- 💬 Commented on [#2407 Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2407) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
+- 💬 Commented on [#2409 Include agentic workflows when updating system files from AL-Go or indirect templates](https://github.com/microsoft/AL-Go/pull/2409) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - 🌿 Created branch `copymd` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - ⬆️ Pushed  commits to `copymd` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - 💬 Commented on [#2409 Include agentic workflows when updating system files from AL-Go or indirect templates](https://github.com/microsoft/AL-Go/pull/2409) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - 🔀 opened PR [#2409 ](undefined) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - 🔀 closed PR [#3 ](undefined) in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
-- 🔀 opened PR [#3 ](undefined) in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
-- ⬆️ Pushed  commits to `copymd` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
-- 🔀 closed PR [#2309 ](undefined) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
-- 💬 Commented on [#2309 Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
-- ⬆️ Pushed  commits to `ghenterprise` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 <!--END_SECTION:activity-->
 
 
