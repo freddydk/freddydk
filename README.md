@@ -50,6 +50,7 @@
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed  commits to `ghenterprise` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - 🔀 merged PR [#2407 ](undefined) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - ⬆️ Pushed  commits to `copymd` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - ⬆️ Pushed  commits to `copymd` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
@@ -59,7 +60,6 @@
 - 🌿 Created branch `copymd` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - ⬆️ Pushed  commits to `copymd` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - 💬 Commented on [#2409 Include agentic workflows when updating system files from AL-Go or indirect templates](https://github.com/microsoft/AL-Go/pull/2409) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
-- 🔀 opened PR [#2409 ](undefined) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 <!--END_SECTION:activity-->
 
 
