@@ -20,10 +20,10 @@
 ### 🔀 Recent Pull Requests
 
 <!--START_SECTION:prs-->
+- 🔴 closed [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) — `microsoft/AL-Go`
 - 🟢 open [Include agentic workflows when updating system files from AL-Go or indirect templates](https://github.com/microsoft/AL-Go/pull/2409) — `microsoft/AL-Go`
 - 🟣 merged [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2407) — `microsoft/AL-Go`
 - 🔴 closed [Include agentic workflows when updating system files from AL-Go or indirect templates](https://github.com/Freddy-DK/AL-Go/pull/3) — `Freddy-DK/AL-Go`
-- 🔴 closed [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) — `microsoft/AL-Go`
 - 🟣 merged [Confirm protected commands in the VSIX](https://github.com/Freddy-DK/Fkh/pull/84) — `Freddy-DK/Fkh`
 - 🟣 merged [Register cleanupFkh for E2E coverage](https://github.com/Freddy-DK/Fkh/pull/82) — `Freddy-DK/Fkh`
 - 🟢 open [Retired services and SQL 2025 support](https://github.com/Freddy-DK/Fkh/pull/80) — `Freddy-DK/Fkh`
@@ -35,8 +35,8 @@
 ### 📦 Recently Active Repositories
 
 <!--START_SECTION:repos-->
-- [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
+- [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - [microsoft/navcontainerhelper](https://github.com/microsoft/navcontainerhelper)
 - [Freddy-DK/AL-Go-AppSource](https://github.com/Freddy-DK/AL-Go-AppSource)
@@ -50,6 +50,8 @@
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- 🌿 Created branch `main` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
+- ⬆️ Pushed  commits to `copymd` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - ⬆️ Pushed  commits to `ghenterprise` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - 🔀 merged PR [#2407 ](undefined) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - ⬆️ Pushed  commits to `copymd` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
@@ -58,8 +60,6 @@
 - 💬 Commented on [#2407 Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2407) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - 💬 Commented on [#2409 Include agentic workflows when updating system files from AL-Go or indirect templates](https://github.com/microsoft/AL-Go/pull/2409) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - 🌿 Created branch `copymd` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
-- ⬆️ Pushed  commits to `copymd` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
-- 💬 Commented on [#2409 Include agentic workflows when updating system files from AL-Go or indirect templates](https://github.com/microsoft/AL-Go/pull/2409) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 <!--END_SECTION:activity-->
 
 
