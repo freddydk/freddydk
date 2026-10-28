@@ -43,8 +43,8 @@
 - [Freddy-DK/AL-Go-PTE](https://github.com/Freddy-DK/AL-Go-PTE)
 - [freddydk/nav-arm-templates](https://github.com/freddydk/nav-arm-templates)
 - [Freddy-DK/AL-Go-Tools](https://github.com/Freddy-DK/AL-Go-Tools)
-- [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 - [microsoft/nav-docker](https://github.com/microsoft/nav-docker)
+- [Freddy-DK/FkhTest](https://github.com/Freddy-DK/FkhTest)
 <!--END_SECTION:repos-->
 
 ### 🚀 What I've been contributing to lately
