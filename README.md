@@ -42,9 +42,9 @@
 - [Freddy-DK/AL-Go-AppSource](https://github.com/Freddy-DK/AL-Go-AppSource)
 - [Freddy-DK/AL-Go-PTE](https://github.com/Freddy-DK/AL-Go-PTE)
 - [freddydk/nav-arm-templates](https://github.com/freddydk/nav-arm-templates)
-- [Freddy-DK/AL-Go-Tools](https://github.com/Freddy-DK/AL-Go-Tools)
 - [microsoft/nav-docker](https://github.com/microsoft/nav-docker)
 - [Freddy-DK/FkhTest](https://github.com/Freddy-DK/FkhTest)
+- [microsoft/nav-arm-templates](https://github.com/microsoft/nav-arm-templates)
 <!--END_SECTION:repos-->
 
 ### 🚀 What I've been contributing to lately
