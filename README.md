@@ -35,6 +35,7 @@
 ### 📦 Recently Active Repositories
 
 <!--START_SECTION:repos-->
+- [directions4partners/Hackathon-EMEA2026](https://github.com/directions4partners/Hackathon-EMEA2026)
 - [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
@@ -44,22 +45,21 @@
 - [freddydk/nav-arm-templates](https://github.com/freddydk/nav-arm-templates)
 - [microsoft/nav-docker](https://github.com/microsoft/nav-docker)
 - [Freddy-DK/FkhTest](https://github.com/Freddy-DK/FkhTest)
-- [microsoft/nav-arm-templates](https://github.com/microsoft/nav-arm-templates)
 <!--END_SECTION:repos-->
 
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- 🐛 opened issue [#1 \[Hackathon Idea\] <Your Project Title>](https://github.com/directions4partners/Hackathon-EMEA2026/issues/1) in [directions4partners/Hackathon-EMEA2026](https://github.com/directions4partners/Hackathon-EMEA2026)
+- 🐛 opened issue [#2 \[Hackathon Idea\] <Your Project Title>](https://github.com/directions4partners/Hackathon-EMEA2026/issues/2) in [directions4partners/Hackathon-EMEA2026](https://github.com/directions4partners/Hackathon-EMEA2026)
+- 🐛 closed issue [#1 \[Hackathon Idea\] <Your Project Title>](https://github.com/directions4partners/Hackathon-EMEA2026/issues/1) in [directions4partners/Hackathon-EMEA2026](https://github.com/directions4partners/Hackathon-EMEA2026)
+- 🐛 closed issue [#2 \[Hackathon Idea\] <Your Project Title>](https://github.com/directions4partners/Hackathon-EMEA2026/issues/2) in [directions4partners/Hackathon-EMEA2026](https://github.com/directions4partners/Hackathon-EMEA2026)
+- 🐛 labeled issue [#2 \[Hackathon Idea\] <Your Project Title>](https://github.com/directions4partners/Hackathon-EMEA2026/issues/2) in [directions4partners/Hackathon-EMEA2026](https://github.com/directions4partners/Hackathon-EMEA2026)
 - 🌿 Created branch `main2` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - 🌿 Created branch `main` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - ⬆️ Pushed  commits to `copymd` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - ⬆️ Pushed  commits to `ghenterprise` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - 🔀 merged PR [#2407 ](undefined) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
-- ⬆️ Pushed  commits to `copymd` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
-- ⬆️ Pushed  commits to `copymd` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
-- ⬆️ Pushed  commits to `copymd` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
-- 💬 Commented on [#2407 Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2407) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
-- 💬 Commented on [#2409 Include agentic workflows when updating system files from AL-Go or indirect templates](https://github.com/microsoft/AL-Go/pull/2409) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 <!--END_SECTION:activity-->
 
 
