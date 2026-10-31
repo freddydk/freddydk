@@ -50,6 +50,7 @@
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- 🌿 Created branch `main` in [directions4partners/Hackathon-EMEA2026](https://github.com/directions4partners/Hackathon-EMEA2026)
 - 🐛 opened issue [#1 \[Hackathon Idea\] <Your Project Title>](https://github.com/directions4partners/Hackathon-EMEA2026/issues/1) in [directions4partners/Hackathon-EMEA2026](https://github.com/directions4partners/Hackathon-EMEA2026)
 - 🐛 opened issue [#2 \[Hackathon Idea\] <Your Project Title>](https://github.com/directions4partners/Hackathon-EMEA2026/issues/2) in [directions4partners/Hackathon-EMEA2026](https://github.com/directions4partners/Hackathon-EMEA2026)
 - 🐛 closed issue [#1 \[Hackathon Idea\] <Your Project Title>](https://github.com/directions4partners/Hackathon-EMEA2026/issues/1) in [directions4partners/Hackathon-EMEA2026](https://github.com/directions4partners/Hackathon-EMEA2026)
@@ -59,7 +60,6 @@
 - 🌿 Created branch `main` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - ⬆️ Pushed  commits to `copymd` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - ⬆️ Pushed  commits to `ghenterprise` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
-- 🔀 merged PR [#2407 ](undefined) in [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 <!--END_SECTION:activity-->
 
 
