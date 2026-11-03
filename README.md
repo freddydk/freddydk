@@ -39,12 +39,12 @@
 - [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
-- [microsoft/navcontainerhelper](https://github.com/microsoft/navcontainerhelper)
-- [Freddy-DK/AL-Go-PTE](https://github.com/Freddy-DK/AL-Go-PTE)
 - [microsoft/nav-docker](https://github.com/microsoft/nav-docker)
 - [Freddy-DK/FkhTest](https://github.com/Freddy-DK/FkhTest)
 - [microsoft/nav-arm-templates](https://github.com/microsoft/nav-arm-templates)
 - [BusinessCentralApps/include](https://github.com/BusinessCentralApps/include)
+- [BusinessCentralApps/app1](https://github.com/BusinessCentralApps/app1)
+- [freddydk/BCApps](https://github.com/freddydk/BCApps)
 <!--END_SECTION:repos-->
 
 ### 🚀 What I've been contributing to lately
