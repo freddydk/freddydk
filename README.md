@@ -35,6 +35,7 @@
 ### 📦 Recently Active Repositories
 
 <!--START_SECTION:repos-->
+- [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - [Freddy-DK/AlGoCtl](https://github.com/Freddy-DK/AlGoCtl)
 - [microsoft/nav-docker](https://github.com/microsoft/nav-docker)
 - [freddydk/nav-docker](https://github.com/freddydk/nav-docker)
@@ -44,12 +45,12 @@
 - [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - [Freddy-DK/FkhTest](https://github.com/Freddy-DK/FkhTest)
 - [microsoft/nav-arm-templates](https://github.com/microsoft/nav-arm-templates)
-- [BusinessCentralApps/include](https://github.com/BusinessCentralApps/include)
 <!--END_SECTION:repos-->
 
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/AlGoCtl](https://github.com/Freddy-DK/AlGoCtl)
 - ⬆️ Pushed  commits to `Sql2025` in [freddydk/nav-docker](https://github.com/freddydk/nav-docker)
 - ⬆️ Pushed  commits to `main` in [freddydk/nav-docker](https://github.com/freddydk/nav-docker)
@@ -59,7 +60,6 @@
 - 🐛 closed issue [#1 \[Hackathon Idea\] <Your Project Title>](https://github.com/directions4partners/Hackathon-EMEA2026/issues/1) in [directions4partners/Hackathon-EMEA2026](https://github.com/directions4partners/Hackathon-EMEA2026)
 - 🐛 closed issue [#2 \[Hackathon Idea\] <Your Project Title>](https://github.com/directions4partners/Hackathon-EMEA2026/issues/2) in [directions4partners/Hackathon-EMEA2026](https://github.com/directions4partners/Hackathon-EMEA2026)
 - 🐛 labeled issue [#2 \[Hackathon Idea\] <Your Project Title>](https://github.com/directions4partners/Hackathon-EMEA2026/issues/2) in [directions4partners/Hackathon-EMEA2026](https://github.com/directions4partners/Hackathon-EMEA2026)
-- 🌿 Created branch `main2` in [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 <!--END_SECTION:activity-->
 
 
