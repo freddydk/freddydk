@@ -20,6 +20,7 @@
 ### 🔀 Recent Pull Requests
 
 <!--START_SECTION:prs-->
+- 🟣 merged [Human vs AI](https://github.com/Freddy-DK/freddysblog/pull/16) — `Freddy-DK/freddysblog`
 - 🟢 open [Support for SQL 2025](https://github.com/microsoft/nav-docker/pull/621) — `microsoft/nav-docker`
 - 🔴 closed [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) — `microsoft/AL-Go`
 - 🟢 open [Include agentic workflows when updating system files from AL-Go or indirect templates](https://github.com/microsoft/AL-Go/pull/2409) — `microsoft/AL-Go`
@@ -29,7 +30,6 @@
 - 🟣 merged [Register cleanupFkh for E2E coverage](https://github.com/Freddy-DK/Fkh/pull/82) — `Freddy-DK/Fkh`
 - 🟢 open [Retired services and SQL 2025 support](https://github.com/Freddy-DK/Fkh/pull/80) — `Freddy-DK/Fkh`
 - 🟢 open [move the BuildInitialize hook to after determine build project](https://github.com/microsoft/AL-Go/pull/2265) — `microsoft/AL-Go`
-- 🟣 merged [Update Dependency version numbers and upgrade to AKS 1.35](https://github.com/Freddy-DK/Fkh/pull/79) — `Freddy-DK/Fkh`
 <!--END_SECTION:prs-->
 
 ### 📦 Recently Active Repositories
@@ -50,6 +50,8 @@
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- 🔀 merged PR [#16 ](undefined) in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
+- 🔀 opened PR [#16 ](undefined) in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
@@ -58,8 +60,6 @@
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/AlGoCtl](https://github.com/Freddy-DK/AlGoCtl)
 - ⬆️ Pushed  commits to `Sql2025` in [freddydk/nav-docker](https://github.com/freddydk/nav-docker)
 - ⬆️ Pushed  commits to `main` in [freddydk/nav-docker](https://github.com/freddydk/nav-docker)
-- 🌿 Created branch `main` in [directions4partners/Hackathon-EMEA2026](https://github.com/directions4partners/Hackathon-EMEA2026)
-- 🐛 opened issue [#1 \[Hackathon Idea\] <Your Project Title>](https://github.com/directions4partners/Hackathon-EMEA2026/issues/1) in [directions4partners/Hackathon-EMEA2026](https://github.com/directions4partners/Hackathon-EMEA2026)
 <!--END_SECTION:activity-->
 
 
