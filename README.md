@@ -50,6 +50,8 @@
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed  commits to `humanvsai` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
+- 🌿 Created branch `humanvsai` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - 🔀 merged PR [#16 ](undefined) in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - 🔀 opened PR [#16 ](undefined) in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
@@ -58,8 +60,6 @@
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/AlGoCtl](https://github.com/Freddy-DK/AlGoCtl)
-- ⬆️ Pushed  commits to `Sql2025` in [freddydk/nav-docker](https://github.com/freddydk/nav-docker)
-- ⬆️ Pushed  commits to `main` in [freddydk/nav-docker](https://github.com/freddydk/nav-docker)
 <!--END_SECTION:activity-->
 
 
