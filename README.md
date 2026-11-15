@@ -20,6 +20,7 @@
 ### 🔀 Recent Pull Requests
 
 <!--START_SECTION:prs-->
+- 🟢 open [Retired services and SQL 2025 support](https://github.com/Freddy-DK/Fkh/pull/80) — `Freddy-DK/Fkh`
 - 🟣 merged [Human vs AI](https://github.com/Freddy-DK/freddysblog/pull/16) — `Freddy-DK/freddysblog`
 - 🟢 open [Support for SQL 2025](https://github.com/microsoft/nav-docker/pull/621) — `microsoft/nav-docker`
 - 🔴 closed [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) — `microsoft/AL-Go`
@@ -28,13 +29,13 @@
 - 🔴 closed [Include agentic workflows when updating system files from AL-Go or indirect templates](https://github.com/Freddy-DK/AL-Go/pull/3) — `Freddy-DK/AL-Go`
 - 🟣 merged [Confirm protected commands in the VSIX](https://github.com/Freddy-DK/Fkh/pull/84) — `Freddy-DK/Fkh`
 - 🟣 merged [Register cleanupFkh for E2E coverage](https://github.com/Freddy-DK/Fkh/pull/82) — `Freddy-DK/Fkh`
-- 🟢 open [Retired services and SQL 2025 support](https://github.com/Freddy-DK/Fkh/pull/80) — `Freddy-DK/Fkh`
 - 🟢 open [move the BuildInitialize hook to after determine build project](https://github.com/microsoft/AL-Go/pull/2265) — `microsoft/AL-Go`
 <!--END_SECTION:prs-->
 
 ### 📦 Recently Active Repositories
 
 <!--START_SECTION:repos-->
+- [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - [Freddy-DK/AlGoCtl](https://github.com/Freddy-DK/AlGoCtl)
 - [microsoft/nav-docker](https://github.com/microsoft/nav-docker)
@@ -42,7 +43,6 @@
 - [directions4partners/Hackathon-EMEA2026](https://github.com/directions4partners/Hackathon-EMEA2026)
 - [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
-- [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - [Freddy-DK/FkhTest](https://github.com/Freddy-DK/FkhTest)
 - [microsoft/nav-arm-templates](https://github.com/microsoft/nav-arm-templates)
 <!--END_SECTION:repos-->
@@ -50,6 +50,9 @@
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
+- ⬆️ Pushed  commits to `RetiredServices` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
+- ⬆️ Pushed  commits to `humanvsai` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - ⬆️ Pushed  commits to `humanvsai` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - 🌿 Created branch `humanvsai` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - 🔀 merged PR [#16 ](undefined) in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
@@ -57,9 +60,6 @@
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/AlGoCtl](https://github.com/Freddy-DK/AlGoCtl)
 <!--END_SECTION:activity-->
 
 
