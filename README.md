@@ -21,15 +21,15 @@
 
 <!--START_SECTION:prs-->
 - 🟢 open [Retired services and SQL 2025 support](https://github.com/Freddy-DK/Fkh/pull/80) — `Freddy-DK/Fkh`
+- 🟣 merged [Fixes issue 86](https://github.com/Freddy-DK/Fkh/pull/88) — `Freddy-DK/Fkh`
+- 🔴 closed [Cleanuplog](https://github.com/Freddy-DK/Fkh/pull/87) — `Freddy-DK/Fkh`
+- 🔴 closed [Create image using acr tasks](https://github.com/Freddy-DK/Fkh/pull/39) — `Freddy-DK/Fkh`
 - 🟣 merged [Human vs AI](https://github.com/Freddy-DK/freddysblog/pull/16) — `Freddy-DK/freddysblog`
 - 🟢 open [Support for SQL 2025](https://github.com/microsoft/nav-docker/pull/621) — `microsoft/nav-docker`
 - 🔴 closed [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) — `microsoft/AL-Go`
 - 🟢 open [Include agentic workflows when updating system files from AL-Go or indirect templates](https://github.com/microsoft/AL-Go/pull/2409) — `microsoft/AL-Go`
 - 🟣 merged [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2407) — `microsoft/AL-Go`
 - 🔴 closed [Include agentic workflows when updating system files from AL-Go or indirect templates](https://github.com/Freddy-DK/AL-Go/pull/3) — `Freddy-DK/AL-Go`
-- 🟣 merged [Confirm protected commands in the VSIX](https://github.com/Freddy-DK/Fkh/pull/84) — `Freddy-DK/Fkh`
-- 🟣 merged [Register cleanupFkh for E2E coverage](https://github.com/Freddy-DK/Fkh/pull/82) — `Freddy-DK/Fkh`
-- 🟢 open [move the BuildInitialize hook to after determine build project](https://github.com/microsoft/AL-Go/pull/2265) — `microsoft/AL-Go`
 <!--END_SECTION:prs-->
 
 ### 📦 Recently Active Repositories
@@ -50,16 +50,16 @@
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - ⬆️ Pushed  commits to `RetiredServices` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
+- ⬆️ Pushed  commits to `RetiredServices` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
+- 🐛 closed issue [#86 Every "Deploy Full Stack" replaces the Windows node pool (windows_profile forces replacement)](https://github.com/Freddy-DK/Fkh/issues/86) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
+- 🔀 merged PR [#88 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
+- 🔀 opened PR [#88 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
+- 🐛 labeled issue [#86 Every "Deploy Full Stack" replaces the Windows node pool (windows_profile forces replacement)](https://github.com/Freddy-DK/Fkh/issues/86) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
+- 🔀 closed PR [#87 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
+- 🔀 opened PR [#87 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
+- 🔀 closed PR [#39 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - ⬆️ Pushed  commits to `humanvsai` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
-- ⬆️ Pushed  commits to `humanvsai` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
-- 🌿 Created branch `humanvsai` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
-- 🔀 merged PR [#16 ](undefined) in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
-- 🔀 opened PR [#16 ](undefined) in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 <!--END_SECTION:activity-->
 
 
