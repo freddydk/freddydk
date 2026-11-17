@@ -20,6 +20,7 @@
 ### 🔀 Recent Pull Requests
 
 <!--START_SECTION:prs-->
+- 🟣 merged [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2407) — `microsoft/AL-Go`
 - 🟢 open [Retired services and SQL 2025 support](https://github.com/Freddy-DK/Fkh/pull/80) — `Freddy-DK/Fkh`
 - 🟣 merged [Fixes issue 86](https://github.com/Freddy-DK/Fkh/pull/88) — `Freddy-DK/Fkh`
 - 🔴 closed [Cleanuplog](https://github.com/Freddy-DK/Fkh/pull/87) — `Freddy-DK/Fkh`
@@ -28,13 +29,13 @@
 - 🟢 open [Support for SQL 2025](https://github.com/microsoft/nav-docker/pull/621) — `microsoft/nav-docker`
 - 🔴 closed [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) — `microsoft/AL-Go`
 - 🟢 open [Include agentic workflows when updating system files from AL-Go or indirect templates](https://github.com/microsoft/AL-Go/pull/2409) — `microsoft/AL-Go`
-- 🟣 merged [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2407) — `microsoft/AL-Go`
 - 🔴 closed [Include agentic workflows when updating system files from AL-Go or indirect templates](https://github.com/Freddy-DK/AL-Go/pull/3) — `Freddy-DK/AL-Go`
 <!--END_SECTION:prs-->
 
 ### 📦 Recently Active Repositories
 
 <!--START_SECTION:repos-->
+- [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - [Freddy-DK/AlGoCtl](https://github.com/Freddy-DK/AlGoCtl)
@@ -42,7 +43,6 @@
 - [freddydk/nav-docker](https://github.com/freddydk/nav-docker)
 - [directions4partners/Hackathon-EMEA2026](https://github.com/directions4partners/Hackathon-EMEA2026)
 - [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
-- [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - [Freddy-DK/FkhTest](https://github.com/Freddy-DK/FkhTest)
 - [microsoft/nav-arm-templates](https://github.com/microsoft/nav-arm-templates)
 <!--END_SECTION:repos-->
