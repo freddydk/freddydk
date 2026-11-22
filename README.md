@@ -35,6 +35,7 @@
 ### 📦 Recently Active Repositories
 
 <!--START_SECTION:repos-->
+- [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 - [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
@@ -44,12 +45,13 @@
 - [directions4partners/Hackathon-EMEA2026](https://github.com/directions4partners/Hackathon-EMEA2026)
 - [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 - [Freddy-DK/FkhTest](https://github.com/Freddy-DK/FkhTest)
-- [microsoft/nav-arm-templates](https://github.com/microsoft/nav-arm-templates)
 <!--END_SECTION:repos-->
 
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 - ⬆️ Pushed  commits to `RetiredServices` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - ⬆️ Pushed  commits to `RetiredServices` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - 🐛 closed issue [#86 Every "Deploy Full Stack" replaces the Windows node pool (windows_profile forces replacement)](https://github.com/Freddy-DK/Fkh/issues/86) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
@@ -58,8 +60,6 @@
 - 🐛 labeled issue [#86 Every "Deploy Full Stack" replaces the Windows node pool (windows_profile forces replacement)](https://github.com/Freddy-DK/Fkh/issues/86) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - 🔀 closed PR [#87 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - 🔀 opened PR [#87 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
-- 🔀 closed PR [#39 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
-- ⬆️ Pushed  commits to `humanvsai` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 <!--END_SECTION:activity-->
 
 
