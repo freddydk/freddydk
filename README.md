@@ -20,6 +20,7 @@
 ### 🔀 Recent Pull Requests
 
 <!--START_SECTION:prs-->
+- 🟢 open [Update message text in HelloWorld.al](https://github.com/Freddy-DK/MultiProjectRepo/pull/1) — `Freddy-DK/MultiProjectRepo`
 - 🟣 merged [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2407) — `microsoft/AL-Go`
 - 🟢 open [Retired services and SQL 2025 support](https://github.com/Freddy-DK/Fkh/pull/80) — `Freddy-DK/Fkh`
 - 🟣 merged [Fixes issue 86](https://github.com/Freddy-DK/Fkh/pull/88) — `Freddy-DK/Fkh`
@@ -29,12 +30,12 @@
 - 🟢 open [Support for SQL 2025](https://github.com/microsoft/nav-docker/pull/621) — `microsoft/nav-docker`
 - 🔴 closed [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2309) — `microsoft/AL-Go`
 - 🟢 open [Include agentic workflows when updating system files from AL-Go or indirect templates](https://github.com/microsoft/AL-Go/pull/2409) — `microsoft/AL-Go`
-- 🔴 closed [Include agentic workflows when updating system files from AL-Go or indirect templates](https://github.com/Freddy-DK/AL-Go/pull/3) — `Freddy-DK/AL-Go`
 <!--END_SECTION:prs-->
 
 ### 📦 Recently Active Repositories
 
 <!--START_SECTION:repos-->
+- [directions4partners/CCMS](https://github.com/directions4partners/CCMS)
 - [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 - [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
 - [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
@@ -44,12 +45,14 @@
 - [freddydk/nav-docker](https://github.com/freddydk/nav-docker)
 - [directions4partners/Hackathon-EMEA2026](https://github.com/directions4partners/Hackathon-EMEA2026)
 - [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
-- [Freddy-DK/FkhTest](https://github.com/Freddy-DK/FkhTest)
 <!--END_SECTION:repos-->
 
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- 🌿 Created branch `freddydk-patch-1` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
+- 🔀 opened PR [#1 ](undefined) in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 - ⬆️ Pushed  commits to `RetiredServices` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
@@ -57,9 +60,6 @@
 - 🐛 closed issue [#86 Every "Deploy Full Stack" replaces the Windows node pool (windows_profile forces replacement)](https://github.com/Freddy-DK/Fkh/issues/86) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - 🔀 merged PR [#88 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - 🔀 opened PR [#88 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
-- 🐛 labeled issue [#86 Every "Deploy Full Stack" replaces the Windows node pool (windows_profile forces replacement)](https://github.com/Freddy-DK/Fkh/issues/86) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
-- 🔀 closed PR [#87 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
-- 🔀 opened PR [#87 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 <!--END_SECTION:activity-->
 
 
