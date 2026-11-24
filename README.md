@@ -50,6 +50,9 @@
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 - 🌿 Created branch `freddydk-patch-1` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 - 🔀 opened PR [#1 ](undefined) in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
@@ -57,9 +60,6 @@
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 - ⬆️ Pushed  commits to `RetiredServices` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - ⬆️ Pushed  commits to `RetiredServices` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
-- 🐛 closed issue [#86 Every "Deploy Full Stack" replaces the Windows node pool (windows_profile forces replacement)](https://github.com/Freddy-DK/Fkh/issues/86) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
-- 🔀 merged PR [#88 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
-- 🔀 opened PR [#88 ](undefined) in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 <!--END_SECTION:activity-->
 
 
