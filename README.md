@@ -20,10 +20,10 @@
 ### 🔀 Recent Pull Requests
 
 <!--START_SECTION:prs-->
+- 🟢 open [Retired services and SQL 2025 support](https://github.com/Freddy-DK/Fkh/pull/80) — `Freddy-DK/Fkh`
 - 🟢 open [Include agentic workflows when updating system files from AL-Go or indirect templates](https://github.com/microsoft/AL-Go/pull/2409) — `microsoft/AL-Go`
 - 🟢 open [Update message text in HelloWorld.al](https://github.com/Freddy-DK/MultiProjectRepo/pull/1) — `Freddy-DK/MultiProjectRepo`
 - 🟣 merged [Enable AL-Go for GitHub on GitHub Enterprise Cloud with data residency](https://github.com/microsoft/AL-Go/pull/2407) — `microsoft/AL-Go`
-- 🟢 open [Retired services and SQL 2025 support](https://github.com/Freddy-DK/Fkh/pull/80) — `Freddy-DK/Fkh`
 - 🟣 merged [Fixes issue 86](https://github.com/Freddy-DK/Fkh/pull/88) — `Freddy-DK/Fkh`
 - 🔴 closed [Cleanuplog](https://github.com/Freddy-DK/Fkh/pull/87) — `Freddy-DK/Fkh`
 - 🔴 closed [Create image using acr tasks](https://github.com/Freddy-DK/Fkh/pull/39) — `Freddy-DK/Fkh`
@@ -35,21 +35,23 @@
 ### 📦 Recently Active Repositories
 
 <!--START_SECTION:repos-->
+- [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
+- [JustVugg/colibri](https://github.com/JustVugg/colibri)
 - [directions4partners/Hackathon-EMEA2026](https://github.com/directions4partners/Hackathon-EMEA2026)
 - [microsoft/AL-Go](https://github.com/microsoft/AL-Go)
+- [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - [directions4partners/CCMS](https://github.com/directions4partners/CCMS)
 - [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
-- [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
-- [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - [Freddy-DK/AlGoCtl](https://github.com/Freddy-DK/AlGoCtl)
 - [microsoft/nav-docker](https://github.com/microsoft/nav-docker)
 - [freddydk/nav-docker](https://github.com/freddydk/nav-docker)
-- [Freddy-DK/AL-Go](https://github.com/Freddy-DK/AL-Go)
 <!--END_SECTION:repos-->
 
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
+- ⭐ Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
 - 🐛 opened issue [#4 \[Hackathon Idea\] My project](https://github.com/directions4partners/Hackathon-EMEA2026/issues/4) in [directions4partners/Hackathon-EMEA2026](https://github.com/directions4partners/Hackathon-EMEA2026)
 - 🐛 closed issue [#4 \[Hackathon Idea\] My project](https://github.com/directions4partners/Hackathon-EMEA2026/issues/4) in [directions4partners/Hackathon-EMEA2026](https://github.com/directions4partners/Hackathon-EMEA2026)
 - 🐛 labeled issue [#4 \[Hackathon Idea\] My project](https://github.com/directions4partners/Hackathon-EMEA2026/issues/4) in [directions4partners/Hackathon-EMEA2026](https://github.com/directions4partners/Hackathon-EMEA2026)
@@ -58,8 +60,6 @@
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 - 🌿 Created branch `freddydk-patch-1` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
-- 🔀 opened PR [#1 ](undefined) in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
-- ⬆️ Pushed  commits to `main` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 <!--END_SECTION:activity-->
 
 
