@@ -50,6 +50,7 @@
 ### 🚀 What I've been contributing to lately
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed  commits to `RetiredServices` in [Freddy-DK/Fkh](https://github.com/Freddy-DK/Fkh)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/freddysblog](https://github.com/Freddy-DK/freddysblog)
 - ⭐ Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
 - 🐛 opened issue [#4 \[Hackathon Idea\] My project](https://github.com/directions4partners/Hackathon-EMEA2026/issues/4) in [directions4partners/Hackathon-EMEA2026](https://github.com/directions4partners/Hackathon-EMEA2026)
@@ -59,7 +60,6 @@
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 - ⬆️ Pushed  commits to `main` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
-- 🌿 Created branch `freddydk-patch-1` in [Freddy-DK/MultiProjectRepo](https://github.com/Freddy-DK/MultiProjectRepo)
 <!--END_SECTION:activity-->
 
 
